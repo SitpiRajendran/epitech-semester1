@@ -1,0 +1,14 @@
+!<arch>
+my_putchar.c/   1539174402  1000  1000  100664  138       `
+/*
+** EPITECH PROJECT, 2018
+** test
+** File description:
+** test
+*/
+#include <unistd.h>
+
+void my_putchar(char c)
+{
+    write(1, &c, 1);
+}
