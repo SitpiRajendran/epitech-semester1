@@ -20,7 +20,7 @@ Savoir rédiger un écrit :
 ## Projects
 
 -----
-### [B1LETTRE - LETTRE ARGUMENTEES](https://github.com/SitpiRajendran/epitech-semester1/tree/master/B1/B1Lettre)
+### [B1LETTRE - LETTRE ARGUMENTEE](https://github.com/SitpiRajendran/epitech-semester1/tree/master/B1/B1Lettre)
 Vous devrez écrire une lettre pour vous sortir d'une situation embarrassante et défendre une position. Vous aurez à choisir parmi plusieurs scénarios.
 
 -----
