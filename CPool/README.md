@@ -37,6 +37,14 @@ Unix Programming
 C Programming
 
 -----
+### Projects
+- [InfinAdd](https://github.com/SitpiRajendran/epitech-semester1/tree/master/CPool/CPool_infinadd_2018)
+- [MatchNMatch](https://github.com/SitpiRajendran/epitech-semester1/tree/master/CPool/CPool_match_nmatch_2018)
+- [FinalStumper](https://github.com/SitpiRajendran/epitech-semester1/tree/master/CPool/CPool_finalstumper_2018)
+- [EvalExpr](https://github.com/SitpiRajendran/epitech-semester1/tree/master/CPool/CPool_evalexpr_2018)
+- [BistoMatic](https://github.com/SitpiRajendran/epitech-semester1/tree/master/CPool/CPool_bistro-matic_2018)
+
+-----
 ## Who am I ?
 
 I am [Sitpi RAJENDRAN](https://github.com/SitpiRajendran/), a {EPITECH.} student from the 2023 Prom's in the Paris Campus.
